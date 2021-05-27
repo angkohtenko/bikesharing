@@ -70,5 +70,5 @@ Citi bike has steady customer base: majority of customers has annual subscriptio
 Wednesday is the best day for maintenance as there are the fewest number of rides during the day.
 No manual relocation of bikes is required. Starting and ending bike stations have the same popularity.
 
-Additional visualizations revealed that most of the customers are 25-40 years old and short-term customers prefer not to share the information about themselves, they just want to enjoy bike trip during weekends. 
+Additional visualizations, presented above, revealed that most of the customers are 25-40 years old and short-term customers prefer not to share the information about themselves, they just want to enjoy bike trip during weekends. 
 
